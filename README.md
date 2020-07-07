@@ -1,6 +1,6 @@
 # MaxWelGamesOne
 MaxWel Game's
 
-Salut wel !
+Salut le monde !
 
 Salut mec ! :D
