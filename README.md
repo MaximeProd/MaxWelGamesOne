@@ -1,6 +1,6 @@
 # MaxWelGamesOne
 MaxWel Game's
 
-Salut wel !
+Salut la compagnie !
 
 Salut mec ! :D
