@@ -18,21 +18,16 @@ namespace Assets
         }
         private void BeginMouvement()
         {
-            switch ()
-            {
-                case Input.GetKeyDown("space"):
-
-            }
             if (Input.GetKeyDown("space")){
                 Debug.Log("Saut");
             }
             if (Input.GetKeyDown("space"))
             {
-                Debug.Log("Saut");
+                Debug.Log("Gauche");
             }
             if (Input.GetKeyDown("space"))
             {
-                Debug.Log("Saut");
+                Debug.Log("Droit");
             }
         }
         
